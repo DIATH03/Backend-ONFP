@@ -1,0 +1,179 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Manioc",
+      "price": "1000 FCFA / kg",
+      "image": "/assets/1b1428e0dd0db270a8fbf4d599b5f9e2.jpg",
+      "tag": "Promo"
+    },
+    {
+      "id": 2,
+      "name": "Mais",
+      "price": "1 000 FCFA / kg",
+      "image": "/assets/2b32dba85f46c1a710aed68ca3ceb4b5.jpg",
+      "tag": "Recommandé"
+    },
+    {
+      "id": 3,
+      "name": "Bananes",
+      "price": "1 000 FCFA / kg",
+      "image": "/assets/37ac84491256c116b44d18342abfbf64.jpg",
+      "tag": "Promo"
+    },
+    {
+      "id": 4,
+      "name": "Bananes douces",
+      "price": "1 000 FCFA / kg",
+      "image": "/assets/3b0edecbb41aff20a605706c6371c99e.jpg",
+      "tag": "Recommandé"
+    },
+    {
+      "id": 5,
+      "name": "Igname (manioc)",
+      "price": "1 500 FCFA / kg",
+      "image": "/assets/4cf5e03d8739abfd69c454fda41d8a94.jpg",
+      "tag": "Local"
+    },
+    {
+      "id": 6,
+      "name": "Aubergines",
+      "price": "900 FCFA / kg",
+      "image": "/assets/5c4d1c524328c6605d063b0caea9f8e4.jpg",
+      "tag": "Recommandé"
+    },
+    {
+      "id": 7,
+      "name": "Carottes",
+      "price": "700 FCFA / kg",
+      "image": "/assets/7ac2c30bd265a78d1c067471c074e5f4.jpg",
+      "tag": "Promo"
+    },
+    {
+      "id": 8,
+      "name": "Poivrons",
+      "price": "1 300 FCFA / kg",
+      "image": "/assets/58b3673ac032e7848bdf4a4e76849f1f.jpg",
+      "tag": "Local"
+    },
+    {
+      "id": 9,
+      "name": "Courgettes",
+      "price": "850 FCFA / kg",
+      "image": "/assets/069c77c20cffbf5463343d4fd30f5f5b.jpg",
+      "tag": "Recommandé"
+    },
+    {
+      "id": 10,
+      "name": "Oignons",
+      "price": "650 FCFA / kg",
+      "image": "/assets/76a6b8f23ffc257f3fc1cb9171790fd1.jpg",
+      "tag": "Promo"
+    },
+    {
+      "id": 11,
+      "name": "Gingembre",
+      "price": "3 200 FCFA / kg",
+      "image": "/assets/263a1b58801df92823a82aa2e1f9852b.jpg",
+      "tag": "Local"
+    },
+    {
+      "id": 12,
+      "name": "Patates douces",
+      "price": "1 100 FCFA / kg",
+      "image": "/assets/279fb40f38964934f6565fabc995701d.jpg",
+      "tag": "Recommandé"
+    },
+    {
+      "id": 13,
+      "name": "Noix de cajou",
+      "price": "4 000 FCFA / kg",
+      "image": "/assets/426a74adf91110730675ec2a0c322eae.jpg",
+      "tag": "Local"
+    },
+    {
+      "id": 14,
+      "name": "Arachides",
+      "price": "1 200 FCFA / kg",
+      "image": "/assets/0512aa16fe5b7a118ec2400fc142ac4a.jpg",
+      "tag": "Promo"
+    },
+    {
+      "id": 15,
+      "name": "Maïs",
+      "price": "700 FCFA / kg",
+      "image": "/assets/609d295f23a20e66b5e5abbbdcb3296e.jpg",
+      "tag": "Recommandé"
+    },
+    {
+      "id": 16,
+      "name": "Riz local",
+      "price": "2 000 FCFA / kg",
+      "image": "/assets/766c14393e291f6c5a6a063b0b4d0da7.jpg",
+      "tag": "Local"
+    },
+    {
+      "id": 17,
+      "name": "Pois",
+      "price": "1 900 FCFA / kg",
+      "image": "/assets/963bf26bff23424b80c7415d964ee798.jpg",
+      "tag": "Recommandé"
+    },
+    {
+      "id": 18,
+      "name": "Farine",
+      "price": "1 100 FCFA / kg",
+      "image": "/assets/503997b756f59cd72e6474f6323b2818.jpg",
+      "tag": "Local"
+    },
+    {
+      "id": 19,
+      "name": "Sésame",
+      "price": "3 300 FCFA / kg",
+      "image": "/assets/527044cd405fc27e2f73e587446595b3.jpg",
+      "tag": "Promo"
+    },
+    {
+      "id": 20,
+      "name": "Arachide Juteuse",
+      "price": "1 500 FCFA / kg",
+      "image": "/assets/691609ab5ab0ce262716f2e1cebfe4c3.jpg",
+      "tag": "Recommandé"
+    },
+    {
+      "id": 21,
+      "name": "Tomates (lot)",
+      "price": "1 700 FCFA / kg",
+      "image": "/assets/773940c8b6d91f153457fb347a7f8984.jpg",
+      "tag": "Local"
+    },
+    {
+      "id": 22,
+      "name": "Légumes mixtes",
+      "price": "Varie",
+      "image": "/assets/64433005967b338b102d3487cfafae40.jpg",
+      "tag": "Recommandé"
+    },
+    {
+      "id": 23,
+      "name": "Panier local",
+      "price": "Sur demande",
+      "image": "/assets/b5a3c82dd1b46fe4a9f0251272f38b82.jpg",
+      "tag": "Local"
+    },
+    {
+      "id": 24,
+      "name": "Fruits secs",
+      "price": "2 800 FCFA / kg",
+      "image": "/assets/f30ce69e73ad2eb7c227690fa6f4fb32.jpg",
+      "tag": "Recommandé"
+    },
+    {
+      "id": 25,
+      "name": "Produits divers",
+      "price": "Varie",
+      "image": "/assets/fdf15ea0a43624663836b844e9db3da1.jpg",
+      "tag": "Local"
+    }
+  ]
+}
