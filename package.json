@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "Node",
-     "start": "node server.js"
+     "start": "json-server --watch db.json"
   },
   "author": "",
   "license": "ISC",
