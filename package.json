@@ -4,13 +4,14 @@
   "description": "Node Js",
   "main": "index.js",
   "scripts": {
-    "test": "Node"
+    "test": "Node",
+     "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^1.0.0-beta.3",
-    "start": "node server.js"
+   
   }
 }
