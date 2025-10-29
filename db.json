@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "produits": [
     {
       "nom": "Mangue",
@@ -1021,3 +1022,11 @@
     }
   ]
 }
+=======
+  "products": [
+    { "id": 1, "name": "Mangue", "price": 1000 },
+    { "id": 2, "name": "Banane", "price": 800 }
+  ],
+  "users": [{ "id": 1, "name": "Demba", "email": "demba@example.com" }]
+}
+>>>>>>> d15fb3eade5191b873120ba7d93f8cd8f7887c69
