@@ -4,12 +4,11 @@
   "description": "Node Js",
   "main": "index.js",
   "scripts": {
-    "start": "node node_modules/json-server/lib/cli/bin.js --watch db.json --host 0.0.0.0 --port 10000"
+    "start": "json-server --watch db.json --port 3000"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
     "autoprefixer": "^10.4.21",
     "axios": "^1.12.2",
     "cors": "^2.8.5",
@@ -18,10 +17,6 @@
     "react-router-dom": "^7.9.4",
     "recharts": "^3.3.0",
     "tailwindcss": "^4.1.14"
-=======
-    "cors": "^2.8.5",
-    "json-server": "^0.17.4"
->>>>>>> d15fb3eade5191b873120ba7d93f8cd8f7887c69
   },
   "engines": {
     "node": "22.x"
